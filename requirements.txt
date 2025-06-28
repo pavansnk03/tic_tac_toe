@@ -1,0 +1,13 @@
+# Core numerical & plotting
+numpy>=1.18.5
+matplotlib>=3.2.2
+seaborn>=0.10.1
+
+# Progress bars
+tqdm>=4.48.0
+
+# Jupyter support
+notebook>=6.0.0
+
+# (Optional) if you open in JupyterLab instead of classic Notebook
+jupyterlab>=2.0.0
